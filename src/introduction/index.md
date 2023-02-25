@@ -11,4 +11,5 @@ user guide.
 quick-start.md
 prerequisites.md
 basic-concepts.md
+core-concepts.md
 ```
